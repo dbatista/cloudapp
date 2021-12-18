@@ -1,0 +1,4 @@
+applications:
+- name: cloudapp
+  random-route: true
+  memory: 120M
